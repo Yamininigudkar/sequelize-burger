@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-To view the site and interact with other users' data, visit 
+To view the site and interact with other users' data, visit: https://stormy-beyond-97833.herokuapp.com/burgers
 
 ## npm Packages to install
 * express
